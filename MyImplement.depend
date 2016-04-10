@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1457335387 source:e:\dke\implement\myimplement\matrix_base.cpp
+	"matrix_base.h"
+
+1457335387 e:\dke\implement\myimplement\matrix_base.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+	<cassert>
+	<boost/dynamic_bitset.hpp>
+
+1457335387 source:e:\dke\implement\myimplement\random.cpp
+	"random.h"
+
+1457335387 e:\dke\implement\myimplement\random.h
+	<boost/random.hpp>
+	<ctime>
+	<cmath>
+	<vector>
+
+1457335387 source:e:\dke\implement\myimplement\stringtokenizer.cpp
+	"StringTokenizer.h"
+
+1457335387 e:\dke\implement\myimplement\stringtokenizer.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1459732561 source:e:\dke\implement\myimplement\uniform_freq.cpp
+	<iostream>
+	"database.h"
+	"uniform_subgraph_random_walk.h"
+	<queue>
+	"vectorUtility.h"
+
+1458695851 e:\dke\implement\myimplement\database.h
+	<fstream>
+	<exception>
+	<iostream>
+	<map>
+	"pattern.h"
+	"element_parser.h"
+	"StringTokenizer.h"
+	"subgraph_iso.h"
+	"graph_iso_check.h"
+	"random.h"
+
+1457335387 e:\dke\implement\myimplement\pattern.h
+	"adj_matrix.h"
+	"graph_can_code.h"
+	<algorithm>
+
+1457335387 e:\dke\implement\myimplement\adj_matrix.h
+	<map>
+	<ext/hash_map>
+	<set>
+	<algorithm>
+	<iterator>
+	"helper_funs.h"
+	"matrix_base.h"
+
+1457335387 e:\dke\implement\myimplement\helper_funs.h
+	<functional>
+	<cstring>
+
+1457335387 e:\dke\implement\myimplement\graph_can_code.h
+	<string>
+	<sstream>
+	<vector>
+	<set>
+	<ext/hash_map>
+	"helper_funs.h"
+
+1457335387 e:\dke\implement\myimplement\element_parser.h
+	<sstream>
+	"helper_funs.h"
+
+1457335387 e:\dke\implement\myimplement\subgraph_iso.h
+	"adj_matrix.h"
+
+1457335387 e:\dke\implement\myimplement\graph_iso_check.h
+	<vector>
+	<set>
+	<map>
+	<iostream>
+	<algorithm>
+	<ext/hash_map>
+	"element_parser.h"
+
+1458696231 e:\dke\implement\myimplement\uniform_subgraph_random_walk.h
+	<algorithm>
+	<ext/hash_set>
+	<ext/hash_map>
+	"helper_funs.h"
+	"pattern_factory.h"
+	"lattice_node.h"
+	"random.h"
+	"time_tracker.h"
+	"functional"
+
+1458631494 e:\dke\implement\myimplement\pattern_factory.h
+	"pattern.h"
+	"database.h"
+	"graph_iso_check.h"
+
+1458695851 e:\dke\implement\myimplement\lattice_node.h
+	<ext/hash_set>
+	"graph_iso_check.h"
+	<algorithm>
+	"helper_funs.h"
+	"pattern_factory.h"
+
+1457335387 e:\dke\implement\myimplement\time_tracker.h
+	<sys/time.h>
+	<unistd.h>
+
+1459732561 e:\dke\implement\myimplement\vectorutility.h
+	<algorithm>
+	<vector>
+
